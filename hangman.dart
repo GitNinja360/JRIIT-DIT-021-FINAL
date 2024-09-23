@@ -11,4 +11,23 @@ How to play:
     If you guess incorrectly, a part of the hangman figure will be drawn.
     Keep guessing until you correctly guess the word or the hangman figure is complete.
 
-I hope you enjoy playing Hangman! Let me know if you have any questions or if you'd like to create another project.
+I hope you enjoy playing Hangman! 
+        
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+                   
